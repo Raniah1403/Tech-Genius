@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.11"
+  },
+  "name": "tech-genius-fullstack-webdevelopment",
+  "version": "1.0.0",
+  "description": "Backend Bootcamp Day 2",
+  "type": "module",
+  "main": "app.js",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "node js"
+  ],
+  "author": "",
+  "license": "ISC"
+}
